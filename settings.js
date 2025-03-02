@@ -38,10 +38,10 @@ global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "CORNEH CT 1"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 CORNEH TECH "
 global.ownerName = "CORNEH CT"
-global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
+global.syt = 'https://whatsapp.com/channel/0029Vb32FIvD8SDyl6qmsA1b'
+global.sgc = 'https://whatsapp.com/channel/0029Vb32FIvD8SDyl6qmsA1b'
+global.sig = 'https://whatsapp.com/channel/0029Vb32FIvD8SDyl6qmsA1b'
+global.web = 'https://whatsapp.com/channel/0029Vb32FIvD8SDyl6qmsA1b'
 //setbot
 global.botName = "CORNEH CT " 
 global.wm = "CORNEH TECH "
